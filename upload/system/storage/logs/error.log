@@ -1,0 +1,21 @@
+2022-11-05 21:19:52 - Exception:  Error: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails <br/>Error Code : 23000 <br/>DROP TABLE `oc_api` in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\db\pdo.php on line 55
+2022-11-06 20:23:25 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 20:23:34 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 20:23:58 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 20:24:24 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 20:24:46 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 20:24:55 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 20:24:58 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 20:25:20 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 20:27:53 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 20:55:32 - PHP Warning: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+File: C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php
+Line: 99
+
+2022-11-06 21:03:09 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-06 21:15:43 - PHP Warning: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+File: C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php
+Line: 99
+
+2022-11-07 19:43:43 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
+2022-11-08 19:28:52 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\XampPHP8.0\htdocs\opencartv2\upload\system\library\mail\mail.php on line 99
